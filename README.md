@@ -9,8 +9,8 @@
 # 課程筆記區
 
 # 作業連結區
-[repo](https://eason-lin0213.github.io/web/)
 
-HW1 :[Eason's Website](https://eason-lin0213.github.io/MyWeb/)
+
+[HW1 : Eason's Website](https://eason-lin0213.github.io/MyWeb/)
 
 # 專題連結區
