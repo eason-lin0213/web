@@ -12,5 +12,6 @@
 
 
 [HW1 : Eason's Website](https://eason-lin0213.github.io/MyWeb/)
+[HW2 : 動態網頁youtube連結](https://youtu.be/2naWGri2VK4)
 
 # 專題連結區
