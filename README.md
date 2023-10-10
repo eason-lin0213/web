@@ -13,6 +13,6 @@
 
 [HW1 : Eason's Website](https://eason-lin0213.github.io/MyWeb/)
 
-[HW2 : 動態網頁youtube連結]([https://youtu.be/EZ7-nv0QpPo)
+[HW2 : 動態網頁youtube連結](https://youtu.be/EZ7-nv0QpPo)
 
 # 專題連結區
