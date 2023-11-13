@@ -19,4 +19,6 @@
 
 [HW4 :  影片連結](https://www.youtube.com/watch?v=BuVUS78uBb4)
 
+[HW4 :  影片連結第二部]([HW4 :  影片連結](https://www.youtube.com/watch?v=BuVUS78uBb4))
+
 # 專題連結區
