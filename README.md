@@ -17,8 +17,8 @@
 
 [HW3 :  影片連結](https://youtu.be/dlZkDsumNw8)
 
-[HW4 :  影片連結](https://www.youtube.com/watch?v=BuVUS78uBb4)
+[HW4 :  影片連結第一部 - azure部署](https://www.youtube.com/watch?v=BuVUS78uBb4)
 
-[HW4 :  影片連結第二部](https://youtu.be/AhnMq_v3hPY)
+[HW4 :  影片連結第二部 - 個人網站deploy至azure](https://youtu.be/AhnMq_v3hPY)
 
 # 專題連結區
