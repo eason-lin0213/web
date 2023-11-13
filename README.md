@@ -19,7 +19,7 @@
 
 [HW4 :  影片連結第一部 - azure部署(後面的deploy都失敗)](https://www.youtube.com/watch?v=BuVUS78uBb4)
 
-[HW4 :  影片連結第二部 - 個人網站deploy至azure（成功deploy至azure](https://youtu.be/AhnMq_v3hPY)
+[HW4 :  影片連結第二部 - 個人網站deploy至azure（成功deploy至azure）](https://youtu.be/AhnMq_v3hPY)
 
 [HW4 網站連結](https://easonweb.azurewebsites.net/)
 
