@@ -21,4 +21,6 @@
 
 [HW4 :  影片連結第二部 - 個人網站deploy至azure](https://youtu.be/AhnMq_v3hPY)
 
+[HW4 網站連結] (https://easonweb.azurewebsites.net/)
+
 # 專題連結區
